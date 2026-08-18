@@ -1,4 +1,4 @@
-GH
+H
 #include<iostream>
 using namespace std;
 int main()
