@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int i,j,k,rows;
-    cout<<"Enter odd number:";
+    cout<<"Enter odd number: ";
     cin>>rows;
     for(i=1;i<=(rows/2)+1;i++){
         for(j=i;j<(rows/2)+1;j++){
@@ -13,11 +13,11 @@ int main(){
         }
         cout<<endl;
     }
-    for(i=(rows/2)+2; i<=rows;i++){
-        for(j=rows;j>=i;j--){
+    for(i=rows/2;i>=1;i--){
+        for(j=1;j<=rows/2-i+1;j++){
             cout<<" ";
         }
-        for(k=; k>i; k++){
+        for(k=1;k<=2*i-1;k++){
             cout<<"*";
         }
         cout<<endl;
