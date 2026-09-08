@@ -2,22 +2,21 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int arr[7] = {4, 2, 7, 3, 9, 5, 10};
-    int max=-1;
+    int arr[7]={4,2,3,7,1,5,10};
     bool found=false;
-    for(int i=0;i<7;i++){
+    for(int i=1;i<7;i++){
+        found=false;
         for(int j=i-1;j>=0;j--){
-            if(arr[j]>arr[i]){
-                max=arr[j];
-                found=true;
+            if(arr[j]<arr[i]){    
             }
             else{
-                found=false;
+                found=true;
+                break;
             }
-            if(found==true){  
-                cout<<max;
-                return 0;
-            }
+        }
+        if(found==false){
+            cout<<arr[i];
+            return 0;
         }
     }
     return 0;
