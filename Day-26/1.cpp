@@ -1,4 +1,4 @@
-sggtg
+sggt
 //FIND THE LONGEST SUBARRAY WHOSE ELEMENTS ARE IN STRICTLY INCREASING ORDER.
 #include <iostream>
 using namespace std;
