@@ -1,4 +1,3 @@
-vg
 //LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
 #include <iostream>
 using namespace std;
