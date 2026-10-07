@@ -1,4 +1,4 @@
-hgmj//LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
+gmj//LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
 #include <iostream>
 using namespace std;
 int main(){
