@@ -1,4 +1,4 @@
-//LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
+jhyguj//LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
 #include <iostream>
 using namespace std;
 int main(){
