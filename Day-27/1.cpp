@@ -1,4 +1,4 @@
-dfdf//LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
+fdf//LONGEST SUBARRAY WITH ALL DISTINCT ELEMENTS
 #include <iostream>
 using namespace std;
 int main(){
