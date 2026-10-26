@@ -1,4 +1,4 @@
-gvh//Find the equilibrium index
+vh//Find the equilibrium index
 #include <iostream>
 using namespace std;
 int main(){
