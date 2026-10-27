@@ -1,3 +1,4 @@
+87U
 //Find the equilibrium index
 #include <iostream>
 using namespace std;
