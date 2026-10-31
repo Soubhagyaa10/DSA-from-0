@@ -1,4 +1,4 @@
-bgdf
+gdf
 //FIND THE LONGEST CONSECUTIVE INCREASING SUBARRAY
 #include <iostream>
 using namespace std;
