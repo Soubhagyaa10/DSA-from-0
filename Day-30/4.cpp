@@ -1,4 +1,4 @@
-ikbholhn
+kbholhn
 //FIND THE MAXIMUM PRODUCT SUBARRAY
 #include <iostream>
 using namespace std;
